@@ -23,4 +23,4 @@ The goal of this project is to visualize and analyze sales data to uncover key p
 
 ## 📂 Project Structure
 
-<pre> ``` PowerBI-Excel-Visualization-Project/ ├── README.md ├── Data/ │ └── Raw_Data.xlsx ├── Screenshots/ │ ├── dashboard1.png │ └── dashboard2.png └── Sales Dashboard.pbix ``` </pre>
+<pre> ``` PowerBI-Excel-Visualization-Project/ ├── README.md ├── Data/ │ └── Raw_Data.xlsx ├── Screenshots/ │ ├── dashboard1.png │ └── Sales Dashboard.pbix ``` </pre>
